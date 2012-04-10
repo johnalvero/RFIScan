@@ -1,0 +1,8 @@
+Usage
+
+
+./rfiscan [folder]
+
+Example:
+
+./rfiscan /var/www/html
