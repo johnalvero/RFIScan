@@ -3,6 +3,7 @@
 # PHP RFI Vulnerability Scanner
 # John Homer H Alvero
 # Feb. 1, 2010
+#
 
 my $file = '';
 my @filelist = ();
